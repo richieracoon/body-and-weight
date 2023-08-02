@@ -1,0 +1,7 @@
+{
+  "name": "body-and-weight",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

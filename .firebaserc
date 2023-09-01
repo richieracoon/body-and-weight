@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "body-and-weight-192be"
+  },
+  "targets": {
+    "body-and-weight-192be": {
+      "hosting": {
+        "app": [
+          "body-and-weights"
+        ]
+      }
+    }
+  }
+}
